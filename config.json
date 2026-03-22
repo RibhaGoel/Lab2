@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a REST API for managing todos using FastAPI framework",
+      "path": "assignments/building-rest-apis",
+      "dueDate": "2026-03-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
